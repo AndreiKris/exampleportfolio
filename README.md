@@ -5,7 +5,8 @@
 ## Education
 
 ## Projects
-
+Test Image
+![Test Image](assets/iw_bw-9.jpg) 
 
 # Header1
 ## Header 2

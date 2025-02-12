@@ -11,5 +11,6 @@
 ## Header 2
 ##### Header 5
 *Italic text*
- ** Bold test **
+
+**test bold text**
  

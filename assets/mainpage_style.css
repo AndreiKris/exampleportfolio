@@ -1,0 +1,10 @@
+body {
+    background-color: #f4f4f4; /* Цвет фона (замени на свой) */
+}
+
+.wrapper {
+    max-width: 900px; /* Измени ширину (по умолчанию ~600px) */
+    margin: auto; /* Центрирование */
+    text-align: justify;
+}
+

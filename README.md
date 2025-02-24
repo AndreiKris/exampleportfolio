@@ -7,7 +7,7 @@
 #### Houses Prices Predictions
 
 See Jupyter notebook 
-[![Jupyter Notebook](https://img.shields.io/badge/Open%20in-GitHub-blue?style=for-the-badge&logo=github)]((https://github.com/andreikris/exampleportfolio/blob/main/python/House%20Prices%20Forecast.ipynb))
+[![Jupyter Notebook](https://img.shields.io/badge/Open%20in-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/andreikris/exampleportfolio/blob/main/python/House%20Prices%20Forecast.ipynb)
 
 
 

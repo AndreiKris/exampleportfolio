@@ -1,6 +1,5 @@
 # Welcome to My Data Science Portfolio
 
-Welcome to the portfolio of my Data Science projects. My name is Andrei and I am a data analyst/scientist. 
 Hi, I’m Andrei! I’ve been working with data for over 30 years, starting out as a database developer. Over time, I moved into data analytics and consulting, helping businesses measure performance in areas like customer service, contact centers, and business operations. Most of my work has been with large financial and telecom companies, where data-driven decisions are key.
 
 #### Business Intelligence and Data Engineering

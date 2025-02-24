@@ -4,10 +4,12 @@
 
 ## Projects
 
-### Houses Prices Prediction
-[![Jupyter Notebook](https://img.shields.io/badge/Open%20in-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/AndreiKris/exampleportfolio/refs/heads/main/python/House%20Prices%20Forecast.ipynb)
+#### Houses Prices Predictions
 
-(https://github.com/andreykris/exampleportfolio/blob/main/python/House%20Prices%20Forecast.ipynb)
+See Jupyter notebook 
+[![Jupyter Notebook](https://img.shields.io/badge/Open%20in-GitHub-blue?style=for-the-badge&logo=github)]((https://github.com/andreykris/exampleportfolio/blob/main/python/House%20Prices%20Forecast.ipynb))
+
+
 
 ## Education
 Test Image

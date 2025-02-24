@@ -5,7 +5,7 @@
 ## Projects
 
 ### Houses Prices Prediction
-[![Jupyter Notebook](https://img.shields.io/badge/Open%20in-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/andreykris/exampleportfolio/blob/main/python/House%20Pricese%20Forecast.ipynb)
+[![Jupyter Notebook](https://img.shields.io/badge/Open%20in-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/andreykris/exampleportfolio/blob/main/python/House%20Prices%20Forecast.ipynb)
 
 ## Education
 Test Image

@@ -2,11 +2,15 @@
 
 ## Work Experience
 
-## Education
-
 ## Projects
+
+### Houses Prices Prediction
+[![Jupyter Notebook](https://img.shields.io/badge/Open%20in-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/andreykris/exampleportfolio/blob/main/python/House%20Pricese%20Forecast.ipynb)
+
+## Education
 Test Image
 ![Test Image](assets/iw_bw-9.jpg) 
+
 
 # Header1
 ## Header 2

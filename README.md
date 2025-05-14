@@ -21,7 +21,7 @@ Take a look around, and if you have any questions, feel free to contact me!
 |-------------|------|-------------|
 | House Prices Forecast | [![Jupyter Notebook](https://img.shields.io/badge/Open%20in-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/andreikris/exampleportfolio/blob/main/python/House%20Prices%20Forecast.ipynb)| Predicting house prices using machine learning models. |
 | Telecom Customer Churn Analysis | [![Jupyter Notebook](https://img.shields.io/badge/Open%20in-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/andreikris/exampleportfolio/blob/main/python/Kaggle%20Telecom%20Churn%20prediction.ipynb) | Identifying customers likely to leave a service. |
-| Sales Forecasting | [Notebook](https://github.com/andreikris/exampleportfolio/blob/main/python/Sales%20Forecasting.ipynb) | Time-series analysis for future sales prediction. |
+
 
 
  
